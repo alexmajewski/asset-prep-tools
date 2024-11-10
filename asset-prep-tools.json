@@ -1,0 +1,8 @@
+{
+	"env": [{
+		"ASSETPREPTOOLS": "C:/Users/Xander/Documents/houdini_packages/asset-prep-tools"
+	}],
+
+	"path": "$ASSETPREPTOOLS",
+	"package_path": "$ASSETPREPTOOLS"
+}
